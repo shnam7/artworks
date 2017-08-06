@@ -1,0 +1,24 @@
+{
+  "name": "artwork",
+  "version": "1.0.0",
+  "description": "artwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shnam7/artwork.git"
+  },
+  "author": "",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/shnam7/artwork/issues"
+  },
+  "homepage": "https://github.com/shnam7/artwork#readme",
+  "devDependencies": {
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-build-manager": "^2.0.0-alpha.4",
+    "gulp-imagemin": "^3.3.0"
+  }
+}
