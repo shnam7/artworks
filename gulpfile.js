@@ -8,16 +8,16 @@ const upath = require('upath');
 const srcRoot = 'src';
 const destRoot = 'docs';
 
-const images = {
+const artworks = {
   buildName: 'images',
   builder: 'GImagesBuilder',
-  src: [upath.join(srcRoot, '**/*')],
-  dest: destRoot,
+  src: [upath.join(srcRoot, '**/*.{jpg,svg,ico,png,txt}')],
+  dest: destRoot
 };
 
 gbm({
   systemBuilds: {
-    build: images,
+    build: [artworks],
     clean: [destRoot],
     default: ['@clean', '@build']
   }

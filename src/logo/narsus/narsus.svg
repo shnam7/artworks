@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1351.1832"
+   height="387.41876"
+   viewBox="0 0 1013.3874 290.56408"
+   version="1.1"
+   id="svg16"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="narsus logo.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.97370233"
+     inkscape:cx="1073.5668"
+     inkscape:cy="-238.35932"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1447"
+     inkscape:window-height="1314"
+     inkscape:window-x="1982"
+     inkscape:window-y="712"
+     inkscape:window-maximized="0"
+     units="px" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(507.53729,356.49106)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:419.48999023px;line-height:262.181427px;font-family:'Kunstler Script';-inkscape-font-specification:'Kunstler Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.48725796"
+       x="-536.46765"
+       y="-67.329193"
+       id="text20"
+       transform="scale(0.96223778,1.0392442)"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="-536.46765"
+         y="-67.329193"
+         dy="0 0 0 0 0 0 1">Narsus<tspan
+   style="font-size:48.75000119%;baseline-shift:super"
+   id="tspan26">.net</tspan></tspan></text>
+  </g>
+</svg>
