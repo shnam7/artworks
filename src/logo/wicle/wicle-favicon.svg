@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5mm"
+   height="5mm"
+   viewBox="0 0 5 5"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="wicle.svg"
+   inkscape:export-filename="D:\dev\pub\artworks\src\logo\wicle\wicle.png"
+   inkscape:export-xdpi="648.94208"
+   inkscape:export-ydpi="648.94208">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4602"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4600" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="34.131546"
+     inkscape:cx="-9.1698903"
+     inkscape:cy="7.4245301"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2081"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Disk"
+     style="display:inline"
+     transform="translate(-15.83219,-46.328367)" />
+  <g
+     inkscape:label="Text"
+     id="layer1"
+     transform="translate(-53.752268,-138.13651)"
+     style="display:inline"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.52748966px;line-height:1.25;font-family:'Brush Script MT';-inkscape-font-specification:'Brush Script MT, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#002758;fill-opacity:0.92156863;stroke:none;stroke-width:0.13818727"
+       x="49.072029"
+       y="156.30354"
+       id="text3715"
+       transform="scale(1.1000943,0.90901298)"
+       mask="none"
+       inkscape:label="text3715"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="49.072029"
+         y="156.30354"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.52748966px;font-family:'Brush Script MT';-inkscape-font-specification:'Brush Script MT, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#002758;fill-opacity:0.92156863;stroke-width:0.13818727">W</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Circle"
+     style="display:inline"
+     transform="translate(-15.716144,-46.303899)" />
+</svg>

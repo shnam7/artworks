@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5mm"
+   height="5mm"
+   viewBox="0 0 5 5"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="gbm-icon.svg"
+   inkscape:export-filename="D:\dev\pub\artworks\src\logo\wicle\GBM-ICON.png"
+   inkscape:export-xdpi="648.94"
+   inkscape:export-ydpi="648.94">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4602"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4600" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.762616"
+     inkscape:cx="12.024608"
+     inkscape:cy="8.685545"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1759"
+     inkscape:window-height="1272"
+     inkscape:window-x="1841"
+     inkscape:window-y="316"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Disk"
+     style="display:none"
+     transform="translate(-15.864113,-46.443275)">
+    <circle
+       transform="translate(-37.920078,-91.808144)"
+       id="path51"
+       cx="56.284191"
+       cy="140.75142"
+       style="display:inline;fill:#002451;fill-opacity:1;stroke-width:0.30884099"
+       r="2.5" />
+  </g>
+  <g
+     inkscape:label="Text"
+     id="layer1"
+     transform="translate(-53.784191,-138.25142)"
+     style="display:inline"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9490447px;line-height:1.25;font-family:'Brush Script MT';-inkscape-font-specification:'Brush Script MT, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#002451;fill-opacity:1;stroke:none;stroke-width:0.1237262;"
+       x="44.516125"
+       y="172.88324"
+       id="text3715"
+       mask="none"
+       inkscape:label="text3715"
+       transform="scale(1.220019,0.8196594)"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="44.516125"
+         y="172.88324"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9490447px;font-family:'Brush Script MT';-inkscape-font-specification:'Brush Script MT, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#002451;fill-opacity:1;stroke-width:0.1237262;">G</tspan></text>
+  </g>
+</svg>
