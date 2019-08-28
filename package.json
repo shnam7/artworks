@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/shnam7/artwork#readme",
   "devDependencies": {
-    "gulp": "^4.0.1",
-    "gulp-build-manager": "^3.1.1",
-    "gulp-imagemin": "^5.0.3"
+    "gulp": "^4.0.2",
+    "gulp-build-manager": "^3.2.0",
+    "gulp-imagemin": "^6.1.0"
   }
 }
