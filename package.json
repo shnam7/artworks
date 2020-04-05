@@ -1,27 +1,27 @@
 {
-  "name": "artwork",
-  "version": "1.0.0",
-  "description": "artwork",
-  "main": "index.js",
-  "scripts": {
-    "build": "gulp @build",
-    "clean": "gulp @clean",
-    "watch": "gulp @watch",
-    "prepare-to-commit": "npm run clean && npm run build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shnam7/artworks"
-  },
-  "author": "",
-  "license": "CC-BY-NC-4.0",
-  "bugs": {
-    "url": "https://github.com/shnam7/artwork/issues"
-  },
-  "homepage": "https://github.com/shnam7/artwork#readme",
-  "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-build-manager": "^3.2.0",
-    "gulp-imagemin": "^6.1.0"
-  }
+    "name": "artwork",
+    "version": "1.0.0",
+    "description": "artwork",
+    "main": "index.js",
+    "scripts": {
+        "build": "gulp @build",
+        "clean": "gulp @clean",
+        "watch": "gulp @watch",
+        "prepare-to-commit": "npm run clean && npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shnam7/artworks"
+    },
+    "author": "",
+    "license": "CC-BY-NC-4.0",
+    "bugs": {
+        "url": "https://github.com/shnam7/artwork/issues"
+    },
+    "homepage": "https://github.com/shnam7/artwork#readme",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-build-manager": "^3.2.0",
+        "gulp-imagemin": "^7.1.0"
+    }
 }
